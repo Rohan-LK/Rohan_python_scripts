@@ -53,6 +53,7 @@ class RetailOrder(object):
                 print('\nBUYER "'+str(i+1)+'" CONTRIBITED HIGHERST TO THE DEAL')
 
 
+# FOR SOLUTIONS
 seller = [100,200]
 buyers = [60,220,40,210]
 RetailOrder.ebeebay_make_best_deal(seller, buyers)
